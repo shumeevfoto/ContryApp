@@ -44,7 +44,7 @@
             android:id="@+id/statustextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Введите запрос"
+            android:text="Введите страну"
             android:textSize="24sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
